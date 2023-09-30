@@ -10,3 +10,9 @@
   npm i dotevn
   npm start
   ```
+
+---
+
+- DEPLOY
+- 
+  [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/SAM-OCHU/koyeb-beta:latest&env[PALM_API_KEY]&env[OPENAI_API_KEY]&env[BOT_NAME]&env[OWNER_NAME]&env[REACODING]&env[AUTO_READ]&env[ALWAYS_ONLINE]&env[AUTO_ABOUT]&env[CHAT_BOT]&env[PORT]=8000)
